@@ -71,7 +71,7 @@
 > **Engineering Deep-Dive:** Architected a high-performance full-stack ecosystem with a verified **Time-to-First-Byte (TTFB) of <160ms**. Hardened application security by implementing **JWT-based authentication** and custom Role-Based Access Control (RBAC) middleware. Engineered an automated Admin Inventory Dashboard with full CRUD functionality, reducing manual data overhead by ~50% for live production listings.  
 > [**Source Hub**](https://github.com/FORTRAN-01-Arya-Sharma/AshFIT)
 
-### 🔹 [Command Center: The v4.02 Dashboard](https://your-new-portfolio-link.vercel.app)
+### 🔹 [Command Center: The v4.02 Dashboard](https://linked-in-port-web-site.vercel.app)
 > **Engineering Deep-Dive:** The current technical hub you are viewing. Engineered using **Vite** and the new **Tailwind CSS v4** engine. Features fluid typography logic via `clamp()` to achieve zero-overflow across all viewport sizes (iPhone SE to 4K). Integrated Framer Motion spring physics for custom magnetic cursor interactions and hardware-accelerated liquid-flow text animations.  
 > [**Source Hub**](https://github.com/FORTRAN-01-Arya-Sharma/LinkedInPortWebSite)
 
@@ -81,6 +81,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5pZXI2YXA5Z3Z0Mmx3cW93Z3d3Z3d3Z3d3Z3d3Z3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W526Ub22Nr/giphy.gif" width="400px" alt="Coding GIF" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 - 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1700+` (Top 5% Globally)
@@ -92,7 +95,7 @@
 ## 📫 Initiate Handshake
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-sharma-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryasharma.work@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashgrtz2003@gmail.com)
 
 <p align="center">
   <code>© 2025 ARYA_SHARMA // SYSTEM_STATUS: OPERATIONAL // LOC: IN_CHANDIGARH</code>
