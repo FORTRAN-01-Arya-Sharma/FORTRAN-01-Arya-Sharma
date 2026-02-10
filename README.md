@@ -1,86 +1,84 @@
-<!-- TOP GIF BANNER -->
+<!-- TOP GIF BANNER: THE ARCHITECT VIBE -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndW9oM3VsemZ3eTVoNmZ4OHR5ZndyeHpxZndyeHpxZndyeHpxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Arya Sharma</h1>
-<h3 align="center">Software Architect • 3D Web Systems • Intelligent App Builder</h3>
-
----
-
-## 🚀 About Me
-
-- 🧠 **The Narrative:** I refactored my path from academic setbacks into a technical obsession. Now, I architect **resilient 3D environments and Intelligent LLM-powered systems.**
-- ⚡ **Focus:** High-concurrency systems, 60FPS WebGL performance, and sub-160ms TTFB APIs.
-- 🏆 **Stats:** LeetCode Knight (1700+ Rating) | 750+ DSA Problems Decoded.
-- 🏋️ **Discipline:** 6 days/week gym logic translated into production-grade code consistency.
-
----
-
-## 🛠️ Tech Stack (Click icons for docs)
-
-### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-### Frontend & 3D Spatial
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-
-### Backend & Intelligent Systems
-[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Gemini](https://img.shields.io/badge/LLM_Orchestration-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
-
----
-
-## 📊 Programming Metrics
-
-<div align="center">
-  <!-- Use a more stable mirror instance -->
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=FORTRAN-01-Arya-Sharma&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2EA&icon_color=7000FF&text_color=ffffff&count_private=true" height="170" alt="Arya's GitHub Stats" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=FORTRAN-01-Arya-Sharma&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2EA&text_color=ffffff&langs_count=8" height="170" alt="Arya's Top Languages" />
-</div>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=800&color=00F2EA&center=true&vCenter=true&width=900&lines=Software+Architect;3D+Spatial+Systems+Specialist;LLM+Orchestration+%26+RAG;Building_Resilient_Architecture" />
 </p>
 
 ---
 
+## 🚀 The System Narrative
+
+- 🧠 **The Refactor:** I transformed personal and medical challenges into a technical obsession. I don't just code; I build systems that **fail gracefully.**
+- ⚡ **The Focus:** Architecting high-concurrency 3D environments and intelligent LLM-powered interfaces.
+- 🏋️ **The Discipline:** 6 days/week at the gym = 100% code consistency in production. 
+- 🎯 **The Mission:** Targeting top-tier product-based engineering roles.
+
 ---
 
-## 🏆 System Deployments
+## 🛠️ The Arsenal (Click for Docs)
 
-### 🔹 Astra — High-Performance 3D Engine
-> **Engineering:** Hardware-accelerated spatial ecosystem utilizing Draco mesh compression and math-based damping. Achieved 60FPS real-time rendering and 70% asset payload reduction.  
+### 🎨 Frontend & Spatial UI
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://gsap.com/)
+[![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://framer.com/motion)
+
+### ⚙️ Backend & Intelligence
+[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![Gemini](https://img.shields.io/badge/LLM_Orchestration-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+
+---
+
+## 📊 Programming Metrics & Technical Vitals
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5pZXI2YXA5Z3Z0Mmx3cW93Z3d3Z3d3Z3d3Z3d3Z3d3Z3Z3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W526Ub22Nr/giphy.gif" width="450px" alt="Coding GIF" />
+</p>
+
+### ⚔️ Competitive Programming Stats
+- 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1700+` (Top 5% Globally)
+- 🧩 **Problem Solving:** `750+` DSA Problems Decoded across platforms.
+- ⚡ **CodeChef:** `3-Star Architect` | Active Contestant.
+- 🧠 **Core Logic:** Deep expertise in `Graphs`, `Dynamic Programming`, and `Distributed Systems`.
+
+---
+
+## 🏆 System Deployments (Featured Work)
+
+### 🔹 Astra — Real-time 3D Engine
+> **Technical Feat:** Hardware-accelerated spatial ecosystem utilizing Draco mesh compression. Achieved consistent **60FPS** and **70% asset payload reduction.**  
 > [**Live Interface**](https://portfolio-with-ai-assistant.vercel.app) • [**Source Hub**](https://github.com/FORTRAN-01-Arya-Sharma/PortfolioWithAIAssistant)
 
 ### 🔹 AshStar — Intelligent SaaS Dashboard
-> **Logic:** Implemented LLM orchestration via Gemini API with "Neural Memory" context logic. Engineered a multi-model failover protocol to ensure system uptime during peak traffic.  
+> **Technical Feat:** Engineered a multi-model failover protocol (Gemini Pro/Flash) to ensure **100% system uptime**. Built a "Neural Memory" context logic for LLM sessions.  
 > [**Live Interface**](https://ash-star-with-ai-assistant.vercel.app) • [**Source Hub**](https://github.com/FORTRAN-01-Arya-Sharma/AshSTARWithAIAssistant)
 
-### 🔹 AshFit — Decoupled Commerce System
-> **Optimization:** Production-grade full-stack architecture with <160ms TTFB. Features automated inventory syncing and secure JWT/RBAC middleware.  
+### 🔹 AshFit — Decoupled E-commerce Platform
+> **Technical Feat:** Production-grade full-stack architecture with **<160ms average TTFB**. Features secure JWT/RBAC middleware and automated inventory syncing.  
 > [**Live Interface**](https://ash-fit.vercel.app) • [**Source Hub**](https://github.com/FORTRAN-01-Arya-Sharma/AshFIT)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F2EA&center=true&vCenter=true&width=900&lines=System_Status:+Operational;Software+Architect+In+Training;Knight_Tier+@+LeetCode;Building_Resilient_Systems" />
-</p>
 
 ---
 
 ## 📫 Initiate Handshake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-sharma-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryasharma.work@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/arya-sharma-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aryasharma.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <br />
+  <code>© 2025 ARYA_SHARMA // SYSTEM_STATUS: OPERATIONAL // LOC: IN_CHANDIGARH</code>
+</p>
