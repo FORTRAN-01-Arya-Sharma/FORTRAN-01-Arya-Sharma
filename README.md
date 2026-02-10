@@ -44,14 +44,24 @@
 
 ## 📊 Programming Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FORTRAN-01-Arya-Sharma&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORTRAN-01-Arya-Sharma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FORTRAN-01-Arya-Sharma&show_icons=true&theme=transparent&hide_border=true&title_color=00F2EA&icon_color=7000FF&text_color=ffffff" width="400px" alt="Arya's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORTRAN-01-Arya-Sharma&layout=compact&theme=transparent&hide_border=true&title_color=00F2EA&text_color=ffffff" width="300px" alt="Arya's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=transparent&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
+
+---
 
 ---
 
