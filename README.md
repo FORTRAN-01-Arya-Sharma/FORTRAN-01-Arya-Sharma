@@ -45,20 +45,13 @@
 ## 📊 Programming Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FORTRAN-01-Arya-Sharma&show_icons=true&theme=transparent&hide_border=true&title_color=00F2EA&icon_color=7000FF&text_color=ffffff" width="400px" alt="Arya's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORTRAN-01-Arya-Sharma&layout=compact&theme=transparent&hide_border=true&title_color=00F2EA&text_color=ffffff" width="300px" alt="Arya's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- Use a more stable mirror instance -->
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=FORTRAN-01-Arya-Sharma&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2EA&icon_color=7000FF&text_color=ffffff&count_private=true" height="170" alt="Arya's GitHub Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=FORTRAN-01-Arya-Sharma&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2EA&text_color=ffffff&langs_count=8" height="170" alt="Arya's Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=transparent&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
