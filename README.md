@@ -40,7 +40,7 @@
 ## 📊 Programming Metrics & Technical Vitals
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5pZXI2YXA5Z3Z0Mmx3cW93Z3d3Z3d3Z3d3Z3d3Z3d3Z3Z3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVr9W526Ub22Nr/giphy.gif" width="450px" alt="Coding GIF" />
+  <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 ### ⚔️ Competitive Programming Stats
