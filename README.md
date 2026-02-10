@@ -44,8 +44,8 @@
 </p>
 
 ### ⚔️ Competitive Programming Stats
-- 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1700+` (Top 5% Globally)
-- 🧩 **Problem Solving:** `750+` DSA Problems Decoded across platforms.
+- 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1600+` (Top 10% Globally)
+- 🧩 **Problem Solving:** `700+` DSA Problems Decoded across platforms.
 - ⚡ **CodeChef:** `3-Star Architect` | Active Contestant.
 - 🧠 **Core Logic:** Deep expertise in `Graphs`, `Dynamic Programming`, and `Distributed Systems`.
 
