@@ -64,15 +64,15 @@
 
 ### 🔹 Astra — 3D WebGL Ecosystem
 > A hardware-accelerated 3D WebGL ecosystem built with React Three Fiber, delivering 60FPS immersive interaction through mesh compression, async orchestration, and math-driven animation systems.  
-[Live](https://portfolio-with-ai-assistant.vercel.app) • [Code](GITHUB_LINK)
+[Live](https://portfolio-with-ai-assistant.vercel.app) • [Code](https://github.com/FORTRAN-01-Arya-Sharma/PortfolioWithAIAssistant)
 
 ### 🔹 AshFit — Full-Stack E-commerce
 > A production-grade full-stack e-commerce platform with secure RBAC auth, optimized SQL schema, <200ms TTFB APIs, and CI/CD deployment across Vercel & Render.  
-[Live](https://ash-fit.vercel.app) • [Code](GITHUB_LINK)
+[Live](https://ash-fit.vercel.app) • [Code](https://github.com/FORTRAN-01-Arya-Sharma/AshFIT)
 
 ### 🔹 AshStar — AI Gamified SaaS
 > An AI-powered gamified SaaS platform combining 3D UI, Gemini LLM integration, neural memory architecture, and Dockerized backend for scalable intelligent sessions.  
-[Live](https://ash-star-with-ai-assistant.vercel.app) • [Code](GITHUB_LINK)
+[Live](https://ash-star-with-ai-assistant.vercel.app) • [Code](https://github.com/FORTRAN-01-Arya-Sharma/AshSTARWithAIAssistant)
 
 ---
 
