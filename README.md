@@ -19,21 +19,31 @@
 
 ---
 
-## 🛠️ The Arsenal (Click for Docs)
+## 🛠️ Tech Stack
 
-### 🎨 Frontend & Spatial UI
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)](https://gsap.com/)
-[![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://framer.com/motion)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
-### ⚙️ Backend & Intelligence
-[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![Gemini](https://img.shields.io/badge/LLM_Orchestration-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white)](https://ai.google.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js)
+![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer-000?style=for-the-badge&logo=framer)
+
+### Backend & AI
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-000?style=for-the-badge)
 
 ---
 
