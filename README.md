@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Arya Sharma</h1>
-<h3 align="center">Software Architect • 3D Web Systems • AI Engineering</h3>
+<h3 align="center">Software Architect • 3D Web Systems • Embedded AI</h3>
 
 ---
 
