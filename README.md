@@ -12,7 +12,7 @@
 
 - 🧠 **The Narrative:** I refactored my path from medical challenges into a technical obsession. Now, I architect **resilient 3D environments and AI-integrated RAG systems.**
 - ⚡ **Focus:** High-concurrency systems, 60FPS WebGL performance, and sub-160ms TTFB APIs.
-- 🏆 **Stats:** LeetCode Knight (1700+ Rating) | 750+ DSA Problems Decoded.
+- 🏆 **Stats:** LeetCode Knight (1600+ Rating) | 700+ DSA Problems Decoded.
 - 🏋️ **Discipline:** 6 days/week gym logic translated into production-grade code consistency.
 
 ---
