@@ -86,7 +86,7 @@
   <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
-- 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1600+` (Top 5% Globally)
+- 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1600+` (Top 10% Globally)
 - 🧩 **DSA Mastery:** `700+` Problems Decoded across CodeChef and LeetCode.
 - ⚡ **Distributed Systems:** Obsessed with solving the "Thundering Herd" problem and N+1 query overheads.
 
