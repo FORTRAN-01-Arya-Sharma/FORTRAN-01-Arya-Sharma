@@ -17,7 +17,7 @@
 - 🧠 **The Origin:** Faced with academic setbacks and medical challenges that disrupted traditional paths, I refactored my entire life into a technical obsession. I realized that software engineering is the ultimate meritocracy—where resilience is measured in uptime and technical grit.
 - ⚡ **The Engineering Focus:** I don't just build features; I architect **resilient systems**. My work centers on solving problems involving high concurrency, data consistency across distributed components, and extreme latency optimization under heavy load.
 - 🛠️ **The Standard:** I prioritize clean architectural boundaries, asynchronous event-driven designs, and **production readiness** over rapid feature churn. To me, code is a liability; well-designed systems are long-term assets.
-- 🏋️ **The Discipline:** Consistency in the gym translates to precision in the IDE. I maintain a 6-day discipline module that fuels my 1600+ LeetCode "Knight" obsession.
+- 🏋️ **The Discipline:** Consistency in the gym translates to precision in the IDE. 
 
 ---
 
@@ -86,8 +86,8 @@
   <img src="https://streak-stats.demolab.com?user=FORTRAN-01-Arya-Sharma&theme=tokyonight&hide_border=true&stroke=00F2EA&ring=7000FF&fire=00F2EA&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
-- 🏆 **LeetCode:** `Knight Tier` | **Peak Rating:** `1600+` (Top 10% Globally)
-- 🧩 **DSA Mastery:** `700+` Problems Decoded across CodeChef and LeetCode.
+- 🏆 **LeetCode:** `Road to Contest` | **Peak Rating:** `None` (Working on it)
+- 🧩 **DSA Mastery:** `300+` Problems Decoded across CodeChef and LeetCode.
 - ⚡ **Distributed Systems:** Obsessed with solving the "Thundering Herd" problem and N+1 query overheads.
 
 ---
